@@ -17,7 +17,6 @@ This project implements a real-time face detection system that predicts both the
 - OpenCV
 - NumPy
 - Matplotlib
-- Other dependencies listed in `requirements.txt`
 
 ## Installation
 

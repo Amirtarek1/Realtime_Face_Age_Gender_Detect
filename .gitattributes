@@ -1,0 +1,2 @@
+Data/Data.rar filter=lfs diff=lfs merge=lfs -text
+Final_Emotion_Detection_Model.keras filter=lfs diff=lfs merge=lfs -text
